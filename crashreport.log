@@ -1,0 +1,214 @@
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 11 2016
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 16 2016 19:44:23
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004a90d4
+  backtrace:
+    0: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004A90D4]
+    1: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004C43B7]
+    2: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004B6A67]
+    3: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004DF859]
+    4: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045A9F8]
+    5: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045B1D9]
+    6: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045AA40]
+    7: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045B1D9]
+    8: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045AA40]
+    9: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000044EB14]
+    10: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000046C480]
+    11: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe(alGetListeneriv+0x2706ff) [0x000000000077ACBF]
+    12: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x0000000000401250]
+    13: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000076F49D72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000076F49D45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 11 2016
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 17 2016 19:30:54
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004a90d4
+  backtrace:
+    0: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004A90D4]
+    1: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004C43B7]
+    2: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004B6A67]
+    3: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004DF859]
+    4: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045A9F8]
+    5: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045B1D9]
+    6: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045AA40]
+    7: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045B1D9]
+    8: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000045AA40]
+    9: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000044EB14]
+    10: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x000000000046C480]
+    11: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe(alGetListeneriv+0x2706ff) [0x000000000077ACBF]
+    12: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x0000000000401250]
+    13: C:\Users\Administrador\Desktop\DXP sources\Nova pasta (3)\DxP Cliente\OTC DX9.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077859D72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077859D45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 22 2016
+build type: Release
+build revision: 0 (By Drakopoulos)
+crash date: Jul 10 2016 16:27:52
+exception: Access violation (0xc0000005)
+exception address: 0x67cdb527
+  backtrace:
+    0: C:\Windows\system32\nvd3dum.dll(QueryOglResource+0x2f037) [0x0000000067CDB527]
+    1: C:\Windows\system32\nvd3dum.dll(QueryOglResource+0x24390) [0x0000000067CD0880]
+    2: C:\Windows\system32\nvd3dum.dll(QueryOglResource+0x245d2) [0x0000000067CD0AC2]
+    3: C:\Windows\system32\nvd3dum.dll(QueryOglResource+0x315ae) [0x0000000067CDDA9E]
+    4: C:\Windows\system32\nvd3dum.dll [0x0000000067C092BC]
+    5: C:\Windows\system32\nvd3dum.dll [0x0000000067C06AAC]
+    6: C:\Windows\system32\nvd3dum.dll [0x0000000067C20CEA]
+    7: C:\Windows\system32\nvd3dum.dll(QueryOglResource+0x1db8a9) [0x0000000067E87D99]
+    8: C:\Windows\system32\nvd3dum.dll(QueryOglResource+0x1db9f0) [0x0000000067E87EE0]
+    9: C:\Windows\syswow64\kernel32.dll(BaseThreadInitThunk+0x12) [0x000000007592338A]
+    10: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077CB9902]
+    11: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077CB98D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 22 2016
+build type: Release
+build revision: 0 (By Drakopoulos)
+crash date: Sep 17 2018 19:23:20
+exception: Access violation (0xc0000005)
+exception address: 0x004676e4
+  backtrace:
+    0: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x00000000004676E4]
+    1: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465A35]
+    2: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465F61]
+    3: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000473BB5]
+    4: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x241b1f) [0x00000000007119AF]
+    5: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x208789) [0x00000000006D8619]
+    6: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x204ab3) [0x00000000006D4943]
+    7: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x000000000045839C]
+    8: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3650b) [0x000000000050639B]
+    9: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    10: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3694c) [0x00000000005067DC]
+    11: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x372b2) [0x0000000000507142]
+    12: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3e047) [0x000000000050DED7]
+    13: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3f532) [0x000000000050F3C2]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlAllocateHeap+0xac) [0x00000000771BE172]
+    15: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x37068) [0x0000000000506EF8]
+    16: C:\Windows\SysWOW64\ntdll.dll(RtlFreeHeap+0x7e) [0x00000000771BE0A3]
+    17: C:\Windows\syswow64\msvcrt.dll(free+0x39) [0x0000000075B398CD]
+    18: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x36990) [0x0000000000506820]
+    19: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x32ed0) [0x0000000000502D60]
+    20: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    21: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x35c1d) [0x0000000000505AAD]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 22 2016
+build type: Release
+build revision: 0 (By Drakopoulos)
+crash date: Sep 17 2018 19:29:51
+exception: Access violation (0xc0000005)
+exception address: 0x004676e4
+  backtrace:
+    0: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x00000000004676E4]
+    1: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465A35]
+    2: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465F61]
+    3: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000473BB5]
+    4: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x241b1f) [0x00000000007119AF]
+    5: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x208789) [0x00000000006D8619]
+    6: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x204ab3) [0x00000000006D4943]
+    7: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x000000000045839C]
+    8: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3650b) [0x000000000050639B]
+    9: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    10: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3694c) [0x00000000005067DC]
+    11: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x372b2) [0x0000000000507142]
+    12: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3e047) [0x000000000050DED7]
+    13: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3f532) [0x000000000050F3C2]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlAllocateHeap+0xac) [0x00000000771BE172]
+    15: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x37068) [0x0000000000506EF8]
+    16: C:\Windows\SysWOW64\ntdll.dll(RtlFreeHeap+0x7e) [0x00000000771BE0A3]
+    17: C:\Windows\syswow64\msvcrt.dll(free+0x39) [0x0000000075B398CD]
+    18: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x36990) [0x0000000000506820]
+    19: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x32ed0) [0x0000000000502D60]
+    20: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    21: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x35c1d) [0x0000000000505AAD]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 22 2016
+build type: Release
+build revision: 0 (By Drakopoulos)
+crash date: Sep 17 2018 19:37:33
+exception: Access violation (0xc0000005)
+exception address: 0x004676e4
+  backtrace:
+    0: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x00000000004676E4]
+    1: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465A35]
+    2: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465F61]
+    3: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000473BB5]
+    4: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x241b1f) [0x00000000007119AF]
+    5: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x208789) [0x00000000006D8619]
+    6: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x204ab3) [0x00000000006D4943]
+    7: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x000000000045839C]
+    8: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3650b) [0x000000000050639B]
+    9: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    10: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3694c) [0x00000000005067DC]
+    11: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3e047) [0x000000000050DED7]
+    12: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3f532) [0x000000000050F3C2]
+    13: C:\Windows\SysWOW64\ntdll.dll(RtlAllocateHeap+0xac) [0x00000000771BE172]
+    14: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x37068) [0x0000000000506EF8]
+    15: C:\Windows\syswow64\msvcrt.dll(free+0x39) [0x0000000075B398CD]
+    16: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x36990) [0x0000000000506820]
+    17: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x32ed0) [0x0000000000502D60]
+    18: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    19: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x35c1d) [0x0000000000505AAD]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jun 22 2016
+build type: Release
+build revision: 0 (By Drakopoulos)
+crash date: Sep 17 2018 20:11:49
+exception: Access violation (0xc0000005)
+exception address: 0x004676e4
+  backtrace:
+    0: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x00000000004676E4]
+    1: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465A35]
+    2: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000465F61]
+    3: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x0000000000473BB5]
+    4: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x241b1f) [0x00000000007119AF]
+    5: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x208789) [0x00000000006D8619]
+    6: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x204ab3) [0x00000000006D4943]
+    7: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe [0x000000000045839C]
+    8: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3650b) [0x000000000050639B]
+    9: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    10: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3694c) [0x00000000005067DC]
+    11: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x372b2) [0x0000000000507142]
+    12: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3e047) [0x000000000050DED7]
+    13: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x3f532) [0x000000000050F3C2]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlAllocateHeap+0xac) [0x00000000771BE172]
+    15: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x37068) [0x0000000000506EF8]
+    16: C:\Windows\SysWOW64\ntdll.dll(RtlFreeHeap+0x7e) [0x00000000771BE0A3]
+    17: C:\Windows\syswow64\msvcrt.dll(free+0x39) [0x0000000075B398CD]
+    18: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x36990) [0x0000000000506820]
+    19: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x32ed0) [0x0000000000502D60]
+    20: C:\Windows\syswow64\msvcrt.dll(realloc+0x6d) [0x0000000075B3B17A]
+    21: C:\Users\Kevin Luzetti\Desktop\tentativa 100000\Huatson Client v2\Huatson Client.exe(alGetListeneriv+0x35c1d) [0x0000000000505AAD]
+
